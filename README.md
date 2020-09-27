@@ -1,10 +1,6 @@
 # Hi there, my name is Ilya 🌍
-
 ## My goal is to become a frontend developer🚀😎
-
 ### The most important thing is not to forget to sleep and eat❕❕❕😂
-
-<br/>
 
 ### My social media accounts:
 
