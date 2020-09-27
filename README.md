@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, my name is Ilya 🌍
 
-<!--
-**IYDoe/IYDoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My goal is to become a frontend developer🚀😎
 
-Here are some ideas to get you started:
+### The most important thing is not to forget to sleep and eat❕❕❕😂
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### My social media accounts:
+
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vkontakte]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[vkontakte]: https://vk.com/yudin2401/
+[instagram]: https://www.instagram.com/llya_yudin/
+[twitter]: https://twitter.com/EliasYDoe
