@@ -1,6 +1,6 @@
-# Hi there, my name is Ilya 🌍
-## I am frontend developer 🚀
-### "The most important thing is not to forget to sleep and eat"❕❕❕😂
+# Hi there, my name is Ilya 
+## I am frontend developer 
+### "The most important thing is not to forget to sleep and eat"
 
 ### My social media accounts:
 
