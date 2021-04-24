@@ -9,4 +9,3 @@
 
 [vkontakte]: https://vk.com/yudin2401/
 [instagram]: https://www.instagram.com/llya_yudin/
-[twitter]: https://twitter.com/EliasYDoe
